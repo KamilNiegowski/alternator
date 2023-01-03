@@ -9,6 +9,6 @@ title = r"""
 
 """
 
-url = "https://shop.cerraf.pl/"
-consumer_key = "ck_638f26d6d4b94a9871f7986884f74d02b0458660"
-consumer_secret = "cs_8314cb89993dbc108dca4e659218d1f2f266b873"
+url = "url_website"
+consumer_key = "consumer_key_API"
+consumer_secret = "consumer_secret_API"
